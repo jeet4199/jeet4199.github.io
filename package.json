@@ -1,6 +1,8 @@
 {
+    "homepage": "https://jeet4199.github.io/jeet4199.github.io",
   "name": "jeetsingh.github.io",
   "version": "0.1.0",
+
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -18,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build" 
   },
   "eslintConfig": {
     "extends": [
